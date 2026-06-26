@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/atulrpatel007/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/atulrpatel007/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/atulrpatel007/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atulrpatel007/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/atulrpatel007/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/atulrpatel007/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/atulrpatel007/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atulrpatel007/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/atulrpatel007/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/atulrpatel007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/atulrpatel007/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atulrpatel007/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -425,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/atulrpatel007/LeetCode/tree/master/1095-find-in-mountain-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atulrpatel007/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
