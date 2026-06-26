@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/atulrpatel007/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/atulrpatel007/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/atulrpatel007/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/atulrpatel007/LeetCode/tree/master/0832-flipping-an-image) |
 | [0885-spiral-matrix-iii](https://github.com/atulrpatel007/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/atulrpatel007/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/atulrpatel007/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
