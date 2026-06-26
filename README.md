@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atulrpatel007/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/atulrpatel007/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/atulrpatel007/LeetCode/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/atulrpatel007/LeetCode/tree/master/0039-combination-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atulrpatel007/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/atulrpatel007/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/atulrpatel007/LeetCode/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/atulrpatel007/LeetCode/tree/master/0039-combination-sum) |
 ## Linked List
 |  |
 | ------- |
