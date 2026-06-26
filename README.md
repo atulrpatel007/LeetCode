@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/atulrpatel007/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atulrpatel007/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/atulrpatel007/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/atulrpatel007/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/atulrpatel007/LeetCode/tree/master/0832-flipping-an-image) |
 | [0885-spiral-matrix-iii](https://github.com/atulrpatel007/LeetCode/tree/master/0885-spiral-matrix-iii) |
+| [1389-create-target-array-in-the-given-order](https://github.com/atulrpatel007/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 ## Bit Manipulation
 |  |
 | ------- |
