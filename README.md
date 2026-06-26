@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/atulrpatel007/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/atulrpatel007/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/atulrpatel007/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/atulrpatel007/LeetCode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/atulrpatel007/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/atulrpatel007/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/atulrpatel007/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/atulrpatel007/LeetCode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/atulrpatel007/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/atulrpatel007/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/atulrpatel007/LeetCode/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
 | ------- |
