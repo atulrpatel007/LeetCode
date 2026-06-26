@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/atulrpatel007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/atulrpatel007/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/atulrpatel007/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/atulrpatel007/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/atulrpatel007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/atulrpatel007/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/atulrpatel007/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/atulrpatel007/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/atulrpatel007/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/atulrpatel007/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/atulrpatel007/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atulrpatel007/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/atulrpatel007/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
