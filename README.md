@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/atulrpatel007/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/atulrpatel007/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/atulrpatel007/LeetCode/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/atulrpatel007/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/atulrpatel007/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0885-spiral-matrix-iii](https://github.com/atulrpatel007/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0907-sum-of-subarray-minimums](https://github.com/atulrpatel007/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0989-add-to-array-form-of-integer](https://github.com/atulrpatel007/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 ## Two Pointers
 |  |
 | ------- |
