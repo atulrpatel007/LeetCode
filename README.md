@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/atulrpatel007/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atulrpatel007/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atulrpatel007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/atulrpatel007/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/atulrpatel007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/atulrpatel007/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/atulrpatel007/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/atulrpatel007/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/atulrpatel007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/atulrpatel007/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/atulrpatel007/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/atulrpatel007/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/atulrpatel007/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/atulrpatel007/LeetCode/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -229,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/atulrpatel007/LeetCode/tree/master/0155-min-stack) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/atulrpatel007/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
