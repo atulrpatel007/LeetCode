@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/atulrpatel007/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/atulrpatel007/LeetCode/tree/master/0283-move-zeroes) |
 | [0336-palindrome-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0336-palindrome-pairs) |
+| [0349-intersection-of-two-arrays](https://github.com/atulrpatel007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/atulrpatel007/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/atulrpatel007/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/atulrpatel007/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/atulrpatel007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/atulrpatel007/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/atulrpatel007/LeetCode/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0336-palindrome-pairs) |
+| [0349-intersection-of-two-arrays](https://github.com/atulrpatel007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/atulrpatel007/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/atulrpatel007/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/atulrpatel007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atulrpatel007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/atulrpatel007/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/atulrpatel007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
