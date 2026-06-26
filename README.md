@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/atulrpatel007/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/atulrpatel007/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/atulrpatel007/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/atulrpatel007/LeetCode/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/atulrpatel007/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/atulrpatel007/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/atulrpatel007/LeetCode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
