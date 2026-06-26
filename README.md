@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/atulrpatel007/LeetCode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/atulrpatel007/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/atulrpatel007/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0885-spiral-matrix-iii](https://github.com/atulrpatel007/LeetCode/tree/master/0885-spiral-matrix-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/atulrpatel007/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/atulrpatel007/LeetCode/tree/master/0832-flipping-an-image) |
+| [0885-spiral-matrix-iii](https://github.com/atulrpatel007/LeetCode/tree/master/0885-spiral-matrix-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/atulrpatel007/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/atulrpatel007/LeetCode/tree/master/0832-flipping-an-image) |
+| [0885-spiral-matrix-iii](https://github.com/atulrpatel007/LeetCode/tree/master/0885-spiral-matrix-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
