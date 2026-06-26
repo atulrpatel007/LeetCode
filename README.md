@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/atulrpatel007/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/atulrpatel007/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/atulrpatel007/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1773-count-items-matching-a-rule](https://github.com/atulrpatel007/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/atulrpatel007/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/atulrpatel007/LeetCode/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/atulrpatel007/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1773-count-items-matching-a-rule](https://github.com/atulrpatel007/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 ## Trie
 |  |
 | ------- |
