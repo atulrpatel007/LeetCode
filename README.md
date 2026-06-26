@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/atulrpatel007/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1095-find-in-mountain-array](https://github.com/atulrpatel007/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/atulrpatel007/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/atulrpatel007/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/atulrpatel007/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/atulrpatel007/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/atulrpatel007/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/atulrpatel007/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## String Matching
 |  |
 | ------- |
