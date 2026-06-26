@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/atulrpatel007/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/atulrpatel007/LeetCode/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/atulrpatel007/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1901-find-a-peak-element-ii](https://github.com/atulrpatel007/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/atulrpatel007/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/atulrpatel007/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/atulrpatel007/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/atulrpatel007/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/atulrpatel007/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/atulrpatel007/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/atulrpatel007/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1901-find-a-peak-element-ii](https://github.com/atulrpatel007/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
