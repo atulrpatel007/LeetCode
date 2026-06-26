@@ -1,71 +1,40 @@
 class Solution {
-
-    public boolean isSafe(char[][] board, int row, int col, int number) {
-
-        // Check column and row
-        for (int i = 0; i < 9; i++) {
-            if (board[i][col] == (char)(number + '0')) {
-                return false;
-            }
-
-            if (board[row][i] == (char)(number + '0')) {
-                return false;
-            }
-        }
-
-        // Check 3x3 subgrid
-        int sr = (row / 3) * 3;
-        int sc = (col / 3) * 3;
-
-        for (int i = sr; i < sr + 3; i++) {
-            for (int j = sc; j < sc + 3; j++) {
-                if (board[i][j] == (char)(number + '0')) {
+    public void solveSudoku(char[][] board) {
+        sudoku(board);
+    }
+    static boolean sudoku(char[][] board) {
+        for (int i = 0; i < board.length; i++) {
+            for (int j = 0; j < board[0].length; j++) {
+                if (board[i][j] == '.') {
+                    for(char ch = '1'; ch <= '9'; ch++) {
+                        if(solve(board, ch, i, j)) {
+                            board[i][j] = ch;
+                            if(sudoku(board)) {
+                                return true;
+                            }
+                            else {
+                                board[i][j] = '.';
+                            }
+                        }
+                    }
                     return false;
                 }
             }
         }
-
         return true;
     }
-
-    public boolean helper(char[][] board, int row, int col) {
-
-        if (row == 9) {
-            return true;
-        }
-
-        int nrow, ncol;
-
-        if (col != 8) {
-            nrow = row;
-            ncol = col + 1;
-        } else {
-            nrow = row + 1;
-            ncol = 0;
-        }
-
-        if (board[row][col] != '.') {
-            return helper(board, nrow, ncol);
-        } else {
-            for (int i = 1; i <= 9; i++) {
-
-                if (isSafe(board, row, col, i)) {
-
-                    board[row][col] = (char)(i + '0');
-
-                    if (helper(board, nrow, ncol)) {
-                        return true;
-                    }
-
-                    board[row][col] = '.';
-                }
+    static  boolean solve(char[][] board, char c,int i,int j) {
+        for (int l = 0; l < board.length; l++) {
+            if (board[l][j] == c) {
+                return  false;
+            }
+            if (board[i][l] == c) {
+                return  false;
+            }
+            if(board[3*(i/3) + l/3][3*(j/3) + l%3] == c) {
+                return  false;
             }
         }
-
-        return false;
-    }
-
-    public void solveSudoku(char[][] board) {
-        helper(board, 0, 0);
+        return  true;
     }
 }
