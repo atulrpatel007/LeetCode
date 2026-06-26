@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/atulrpatel007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/atulrpatel007/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/atulrpatel007/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/atulrpatel007/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/atulrpatel007/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/atulrpatel007/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/atulrpatel007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/atulrpatel007/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/atulrpatel007/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/atulrpatel007/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/atulrpatel007/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/atulrpatel007/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/atulrpatel007/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0493-reverse-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/atulrpatel007/LeetCode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
 | ------- |
@@ -469,4 +473,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atulrpatel007/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
