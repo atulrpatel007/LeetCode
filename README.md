@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/atulrpatel007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/atulrpatel007/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/atulrpatel007/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
