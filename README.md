@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/atulrpatel007/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/atulrpatel007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/atulrpatel007/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/atulrpatel007/LeetCode/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/atulrpatel007/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/atulrpatel007/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/atulrpatel007/LeetCode/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/atulrpatel007/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0059-spiral-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/atulrpatel007/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
