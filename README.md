@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/atulrpatel007/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/atulrpatel007/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/atulrpatel007/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/atulrpatel007/LeetCode/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atulrpatel007/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atulrpatel007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/atulrpatel007/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/atulrpatel007/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/atulrpatel007/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/atulrpatel007/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atulrpatel007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/atulrpatel007/LeetCode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
