@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/atulrpatel007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/atulrpatel007/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/atulrpatel007/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/atulrpatel007/LeetCode/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/atulrpatel007/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/atulrpatel007/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atulrpatel007/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/atulrpatel007/LeetCode/tree/master/0079-word-search) |
 ## Trie
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/atulrpatel007/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/atulrpatel007/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/atulrpatel007/LeetCode/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/atulrpatel007/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/atulrpatel007/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/atulrpatel007/LeetCode/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -157,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/atulrpatel007/LeetCode/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/atulrpatel007/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
