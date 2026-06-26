@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/atulrpatel007/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/atulrpatel007/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/atulrpatel007/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/atulrpatel007/LeetCode/tree/master/0204-count-primes) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/atulrpatel007/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/atulrpatel007/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/atulrpatel007/LeetCode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/atulrpatel007/LeetCode/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -247,4 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/atulrpatel007/LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/atulrpatel007/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/atulrpatel007/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/atulrpatel007/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
