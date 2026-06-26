@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/atulrpatel007/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/atulrpatel007/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/atulrpatel007/LeetCode/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/atulrpatel007/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/atulrpatel007/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/atulrpatel007/LeetCode/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/atulrpatel007/LeetCode/tree/master/0290-word-pattern) |
 ## Trie
 |  |
 | ------- |
