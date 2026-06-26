@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/atulrpatel007/LeetCode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/atulrpatel007/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/atulrpatel007/LeetCode/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/atulrpatel007/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/atulrpatel007/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/atulrpatel007/LeetCode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/atulrpatel007/LeetCode/tree/master/1922-count-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
