@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/atulrpatel007/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/atulrpatel007/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/atulrpatel007/LeetCode/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/atulrpatel007/LeetCode/tree/master/0832-flipping-an-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/atulrpatel007/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/atulrpatel007/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/atulrpatel007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/atulrpatel007/LeetCode/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/atulrpatel007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/atulrpatel007/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/atulrpatel007/LeetCode/tree/master/0832-flipping-an-image) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/atulrpatel007/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/atulrpatel007/LeetCode/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/atulrpatel007/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/atulrpatel007/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/atulrpatel007/LeetCode/tree/master/0342-power-of-four) |
+| [0832-flipping-an-image](https://github.com/atulrpatel007/LeetCode/tree/master/0832-flipping-an-image) |
 ## Depth-First Search
 |  |
 | ------- |
