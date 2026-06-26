@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/atulrpatel007/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/atulrpatel007/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/atulrpatel007/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0219-contains-duplicate-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/atulrpatel007/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/atulrpatel007/LeetCode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/atulrpatel007/LeetCode/tree/master/0214-shortest-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
