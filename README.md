@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/atulrpatel007/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/atulrpatel007/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/atulrpatel007/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/atulrpatel007/LeetCode/tree/master/0282-expression-add-operators) |
 ## Array
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/atulrpatel007/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/atulrpatel007/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/atulrpatel007/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/atulrpatel007/LeetCode/tree/master/0282-expression-add-operators) |
 ## Trie
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/atulrpatel007/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/atulrpatel007/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/atulrpatel007/LeetCode/tree/master/0282-expression-add-operators) |
 ## Linked List
 |  |
 | ------- |
