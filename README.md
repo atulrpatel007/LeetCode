@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/atulrpatel007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/atulrpatel007/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/atulrpatel007/LeetCode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/atulrpatel007/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/atulrpatel007/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/atulrpatel007/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/atulrpatel007/LeetCode/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atulrpatel007/LeetCode/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/atulrpatel007/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
