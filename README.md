@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/atulrpatel007/LeetCode/tree/master/0283-move-zeroes) |
 | [0336-palindrome-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/atulrpatel007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/atulrpatel007/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/atulrpatel007/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/atulrpatel007/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/atulrpatel007/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/atulrpatel007/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/atulrpatel007/LeetCode/tree/master/0198-house-robber) |
+| [0410-split-array-largest-sum](https://github.com/atulrpatel007/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/atulrpatel007/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/atulrpatel007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/atulrpatel007/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## String Matching
 |  |
 | ------- |
@@ -344,4 +348,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/atulrpatel007/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/atulrpatel007/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
