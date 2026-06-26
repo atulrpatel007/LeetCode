@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/atulrpatel007/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/atulrpatel007/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/atulrpatel007/LeetCode/tree/master/0283-move-zeroes) |
+| [0336-palindrome-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0336-palindrome-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/atulrpatel007/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/atulrpatel007/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/atulrpatel007/LeetCode/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0336-palindrome-pairs) |
 ## String
 |  |
 | ------- |
@@ -141,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/atulrpatel007/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/atulrpatel007/LeetCode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/atulrpatel007/LeetCode/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0336-palindrome-pairs) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/atulrpatel007/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0336-palindrome-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0336-palindrome-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/atulrpatel007/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/atulrpatel007/LeetCode/tree/master/0336-palindrome-pairs) |
 ## Sliding Window
 |  |
 | ------- |
