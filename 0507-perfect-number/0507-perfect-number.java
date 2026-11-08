@@ -1,14 +1,15 @@
-class Solution {
+public class Solution {
     public boolean checkPerfectNumber(int num) {
-        int demo = num;
-        if(num  % 10 != 8 && num % 10 != 6 ) {
+        if( num % 10 != 8 && num % 10 != 6 ) {
             return false;
         }
-        for (int i = 1; i <= num/2; i++) {
-            if(num%i==0){
-                demo = demo - i;
+        int sum = 1;
+        int limit = num / 2;
+        for( int i = 2; i <= limit; i++ ) {
+            if( num % i == 0 ) {
+                sum += i;
             }
         }
-        return demo == 0;
+        return sum == num;
     }
 }
