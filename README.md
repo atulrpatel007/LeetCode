@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/atulrpatel007/LeetCode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/atulrpatel007/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/atulrpatel007/LeetCode/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/atulrpatel007/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/atulrpatel007/LeetCode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/atulrpatel007/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/atulrpatel007/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
